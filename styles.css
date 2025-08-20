@@ -1,0 +1,53 @@
+body {
+    height: 100%;
+    width: 100%;
+    background-color: aquamarine;
+}
+
+.container {
+    display: grid;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-weight: bold;
+    color: gold;
+    gap: 5px;
+    margin-top: 90px;
+}
+
+.container input {
+    border-radius: 20px;
+    height: 50px;
+    border: 2px solid gold;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 30px;
+}
+
+.container button {
+    background: gold;
+    font-size: 40px;
+    border-radius: 100px;
+    border-color: gold;
+    color: white;
+    transition: all 0.75s ease-in;
+}
+
+.container button:hover {
+    background: silver;
+    color: gold;
+}
+
+.container p {
+    color: black;
+    background-color: white;
+    border-radius: 70px;
+    border: 2px solid gold;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+h2 {
+    color: black;
+    font-size: 30px;
+}
