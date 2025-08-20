@@ -13,6 +13,7 @@ Instruction:
 2. Choose a number between 100 to 1000 and put it in the second field.
 3. Click the bet button and good luck!
 
-<img width="1914" height="893" alt="image" src="https://github.com/user-attachments/assets/e9980535-3ee3-455a-817e-ede79c7919a5" />
+![Uploading image.png…]()
+
 
 note: This project is not responsive since I just made this because i'm trying some features.
